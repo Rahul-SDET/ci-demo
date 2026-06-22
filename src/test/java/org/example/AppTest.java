@@ -14,6 +14,6 @@ public class AppTest {
     @Test
     void failingTest() {
         int result = 2 + 2;
-        assertEquals(5, result); // this will fail on purpose
+        assertEquals(4, result); // this will fail on purpose
     }
 }
